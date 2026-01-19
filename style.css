@@ -10,7 +10,7 @@ body {
 
   font-style: normal;
 }
-.contener {
+.container {
   background-color: white;
   display: flex;
   flex-direction: column;
@@ -26,7 +26,7 @@ body {
 .attribution a {
   color: hsl(228, 45%, 44%);
 }
-.discription {
+.description {
   width: 250px;
   text-align: center;
   padding: 10px;
@@ -40,6 +40,7 @@ h2 {
 }
 p {
   font-size: 15px;
+  font-weight: 400;
   line-height: 140%;
   letter-spacing: 0.2px;
   color: hsl(216, 15%, 48%);
